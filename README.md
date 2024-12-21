@@ -8,3 +8,5 @@
 
 ## Naive Bayes
 ![title](images/naive_bayes.png)
+
+Error Rate = 0.1727
