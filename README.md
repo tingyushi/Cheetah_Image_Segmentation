@@ -1,2 +1,7 @@
-# Cheetah_Image_Segmentation
+# Cheetah Image Segmentation
+
+## Original Image
+![title](images/cheetah.bmp)
+
+
 Cheetah Image Segmentation Problem
