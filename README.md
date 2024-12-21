@@ -3,5 +3,8 @@
 ## Original Image
 ![title](images/cheetah.bmp)
 
+## Ground Truth Mask
+![title](images/cheetah_mask.bmp)
 
-Cheetah Image Segmentation Problem
+## Naive Bayes
+![title](images/naive_bayes.png)
