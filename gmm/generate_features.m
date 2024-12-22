@@ -1,5 +1,5 @@
 % read original image
-img = imread("data/cheetah.bmp") ;
+img = imread("../data/cheetah.bmp") ;
 img = im2double(img);
 [image_height, image_width] = size(img);
 
@@ -36,4 +36,4 @@ assert(N == counter - 1);
 
 dct_features = dct_coef;
 
-save("data/dct_features.mat", "dct_features");
+save("../data/dct_features.mat", "dct_features");
